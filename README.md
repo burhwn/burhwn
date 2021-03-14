@@ -1,1 +1,1 @@
-<h1>Xhanger Yazılım 🤠😉✌</h1>
+<h1><strong>Xhanger Yazılım 🤠😉✌ <strong/></h1>
