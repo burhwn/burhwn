@@ -6,5 +6,3 @@ C ile arduino, pıc gibi geliştirme kartlarından projeler yapıyorum ve bunlar
 
 
 
-
-
