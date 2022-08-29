@@ -4,5 +4,6 @@ Favori dilim C ve Python, Javascript, Php dillerinde kendimi geliştirmeye devam
 C ile arduino, pıc gibi geliştirme kartlarından projeler yapıyorum ve bunları satıyorum.
 Kodlama merakımın sebepi ise Elektronikçi olan babamdır. Onun sayesinde şuan yazılım ile ilgileniyorum. </h4>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853130594351317002)](https://discord.com/users/853130594351317002)
 
 
