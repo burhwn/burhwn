@@ -5,8 +5,15 @@ Profilime hoş geldin</h1>
 
 <p>Adım Burhan Yasin. 17 Yaşındayım. Hedefim mekaktronik mühendisi olmak. Arduino ve PIC ile projeler geliştirip satıyorum. Aynı zamanda akıllı ev otomasyonu yapan bir firmada çalışıyorum</p>
 
+<h2>Github</h2>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanyasinkose&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanyasinkose&layout=compact)](https://github.com/burhanyasinkose/github-readme-stats)
+
+
+
 <h2>Discord</h2>
 
 
