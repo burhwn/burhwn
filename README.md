@@ -14,6 +14,7 @@ Profilime hoş geldin</h1>
 
 
 
+
 <h2>Discord</h2>
 
 
