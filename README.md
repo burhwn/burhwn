@@ -1,7 +1,7 @@
 <h1>SELAM! 
 Profilime hoş geldin</h1>
 
-##Ben Kimim
+<h3>Ben Kimim</h3>
 
 <p>Adım Burhan Yasin. 17 Yaşındayım. Hedefim mekaktronik mühendisi olmak. Arduino ve PIC ile projeler geliştirip satıyorum. Aynı zamanda akıllı ev otomasyonu yapan bir firmada çalışıyorum</p>
 
