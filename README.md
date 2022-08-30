@@ -14,8 +14,9 @@ Profilime hoş geldin</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanyasinkose&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanyasinkose&layout=compact&text_color=17a2b8&title_color=17a2b8&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true" />
-
+</p>
 
 <h2>Discord</h2>
 
