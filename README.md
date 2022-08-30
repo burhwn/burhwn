@@ -10,7 +10,9 @@ Profilime hoş geldin</h1>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanyasinkose&show_icons=true&theme=tokyonight)
+```md
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanyasinkose&layout=compact)]
+```
 
 
 <h2>Discord</h2>
