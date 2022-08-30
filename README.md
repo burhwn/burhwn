@@ -3,7 +3,7 @@ Profilime hoş geldin</h1>
 
 <h2>Ben Kimim</h2>
 
-<p>Adım Burhan Yasin. 17 Yaşındayım. Hedefim mekaktronik mühendisi olmak. Arduino ve PIC ile projeler geliştirip satıyorum. Aynı zamanda akıllı ev otomasyonu yapan bir firmada çalışıyorum</p>
+<p>Adım Burhan Yasin. 17 Yaşındayım. Hedefim mekaktronik mühendisi olmak. Arduino ve PIC ile projeler geliştirip satıyorum, raspberry pi'ye de ilgiliyim. Aynı zamanda akıllı ev otomasyonu yapan bir firmada çalışıyorum</p>
 
 <h2>Github</h2>
 
