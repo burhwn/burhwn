@@ -11,7 +11,7 @@ Profilime hoş geldin</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanyasinkose&show_icons=true&theme=tokyonight)
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=burhanyasinkose&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanyasinkose)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Discord</h2>
