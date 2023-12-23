@@ -13,6 +13,7 @@ Profilime hoş geldin</h1>
 <a href="https://www.linkedin.com/in/burhan-yasin-kose/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.threads.net/@burhnn20" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg" width="32" height="32" /></a>
 <a href="https://www.hackster.io/burhannn" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Cib-hackster_%28CoreUI_Icons_v1.0.0%29.svg" width="32" height="32" /></a>
+ <a href="https://www.hackster.io/burhayasin" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Cib-hackster_%28CoreUI_Icons_v1.0.0%29.svg" width="32" height="32" /></a>
 <a href="mailto:burhan@slipyme.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /></a>
 </p>
 
